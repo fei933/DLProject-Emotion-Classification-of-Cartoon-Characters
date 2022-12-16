@@ -1,1 +1,2 @@
-# DLProject-Emotion-Classification-of-Cartoon-Characters
+# Detecting Cartoon Characters’s Emotions Using Transfer Learning
+
