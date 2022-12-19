@@ -60,11 +60,8 @@ all in .ipynb, separated by models and datasets
 ## Result
 
 ### GoogleNet
-
 ![](https://github.com/fei933/DLProject-Emotion-Classification-of-Cartoon-Characters/blob/main/images/googlenet1.png)
-
 ![](https://github.com/fei933/DLProject-Emotion-Classification-of-Cartoon-Characters/blob/main/images/googlenet2.png)
-
 ![](https://github.com/fei933/DLProject-Emotion-Classification-of-Cartoon-Characters/blob/main/images/googlenet3.png)
 
 - Use `’val_categorical_accuracy’` to evaluate accuracy
@@ -78,7 +75,5 @@ all in .ipynb, separated by models and datasets
     - GoogleNet is faster the baseline
 
 ### ResNet50 and Vanilla CNNs
-
 ![](https://github.com/fei933/DLProject-Emotion-Classification-of-Cartoon-Characters/blob/main/images/r****resnet-vanilla-manga.png)
-
 ![](https://github.com/fei933/DLProject-Emotion-Classification-of-Cartoon-Characters/blob/main/images/resnet-vanilla-ferg.png)
