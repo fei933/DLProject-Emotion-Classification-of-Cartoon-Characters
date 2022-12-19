@@ -1,5 +1,7 @@
 # Detecting Cartoon Characters’s Emotions Using Transfer Learning
 
+Feifei (Katelyn) Wang, Yutong (Tracy) Zhang
+
 ## Goal
 
 Emotion Classification of Cartoon Characters of different style (anime vs. 3D cartoon)
@@ -21,7 +23,7 @@ Emotion Classification of Cartoon Characters of different style (anime vs. 3D ca
 
 ## Data Sets
 
-1. **Facial Expression Research Group 2D Database (FERG-DB)**
+1. [Facial Expression Research Group 2D Database (FERG-DB)](http://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html)
 
 55767 annotated face images of 6 characters
 
@@ -35,7 +37,7 @@ Emotion Classification of Cartoon Characters of different style (anime vs. 3D ca
   'shock': 6 }
 ```
 
-1. **Manga Facial Expressions Data Set (462 images)**
+2. **[Manga Facial Expressions Data Set (462 images)](https://www.kaggle.com/datasets/mertkkl/manga-facial-expressions)**
 
 ```bash
 {'anger': 0,
