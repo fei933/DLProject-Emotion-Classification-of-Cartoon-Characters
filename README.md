@@ -1,6 +1,6 @@
 # Detecting Cartoon Characters’s Emotions Using Transfer Learning
 
-Feifei (Katelyn) Wang, Yutong (Tracy) Zhang
+Feifei Wang, Yutong Zhang
 
 ## Goal
 
